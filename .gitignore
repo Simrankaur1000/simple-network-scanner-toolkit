@@ -1,0 +1,11 @@
+# Ignore system files
+*.swp
+*.DS_Store
+*.log
+
+# Ignore screenshots
+screenshots/
+
+# Ignore temp files
+*.tmp
+*.bak
