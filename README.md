@@ -3,8 +3,9 @@
 This toolkit provides a single command-line interface to execute multiple
 Kali Linux reconnaissance and enumeration tools.
 
-## Usage
-./recon-tool <tool> <target>
+##Usage:
+python3 recon_tool.py <tool> <target>
+
 
 ## Supported Tools
 - nmap
